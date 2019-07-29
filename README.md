@@ -1,4 +1,5 @@
-# PLP_Output
+# DNEG_tools
 
-Libreria para tratamiento de salidas PLP con Spark y Python.
+Set de funciones y clases para tratamiento y analisis en python de la Division Negocios de Colbun
+
 # PLP_Out
